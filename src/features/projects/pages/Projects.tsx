@@ -29,7 +29,7 @@ const projects: Project[] = [
   { id: 3, key: "project_3", title: "Koziamedia Reactjs Project", tech: ["Reactjs", "Redux Toolkit", "React Router"] },
   { id: 4, key: "project_4", title: "Vanillajs Project", tech: ["Vanillajs", "CSS", "HTML"] },
   { id: 5, key: "project_5", title: "IBM Clone Landing Page", tech: ["HTML", "CSS"] },
-  { id: 6, key: "project_6", title: "E-Commerce API", tech: ["C#", ".NET Core", "SQL"] },
+  { id: 6, key: "project_6", title: "Reactjs Replica", tech: ["C#", ".NET Core", "SQL"] },
   { id: 7, key: "project_7", title: "Identity & JWT Auth", tech: ["ASP.NET", "EF Core", "JWT", "MSSQL"] },
   { id: 8, key: "project_8", title: "Cache & Pub/Sub Messaging", tech: ["ASP.NET", "Redis", "RabbitMQ", "SMTP"] },
   { id: 9, key: "project_9", title: "Frontmentor Challenges", tech: ["JavaScript", "HTML", "CSS"] },
